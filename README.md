@@ -1,7 +1,7 @@
-### OlÁ! Bem Vindo! Sou Wemerson Sousa Moraes 👋
+### Olá! Bem Vindo! Sou Wemerson Sousa Moraes 👋
 
 - 🎓 Estou cursando ADS Analise e Desenvolvimento de Sitemas
-- 🌱 Estudando Java/Javascript/
+- 🌱 Estudando Java/Javascript/Html5/Css
 
 
 <div align="center">
